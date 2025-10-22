@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+    <title>Mark Treasure Map</title>
+    <id>atherim.marktreasuremap</id>
+    <author>atherim</author>
+    <loadPriority>100</loadPriority>
+    <version>0.23.222</version>   <!-- This is last game version tested for compatibility, not the mod version. See ActionStausMod.cs for that -->
+    <tags>General,QoL,Map Sprite</tags>
+    <description>
+        Mark treasure map on the map on opening with a flag. Remove flag once the treasure has been dug up.
+        
+        I used a flag as it's the only world texture that makes sense, not sure if it's actually in use as I haven't come across it yet.
+        
+        GitHub repo: https://github.com/atherim-bot/MarkTreasureMap
+    </description>    <!-- This should be done on steam workshop, only works on first upload, does not update -->
+    <builtin>false</builtin>    <!-- Set this to false. Don't worry about it. Don't think about it. -->
+    <visibility>Public</visibility>
+</Meta>
